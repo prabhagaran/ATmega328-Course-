@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "0038_Ultrasonic_HC_SR04", "0038_Ultrasonic_HC_SR04.cproj", "{DD4ADEB7-D181-4C0D-A332-F0DFD5F7FF6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD4ADEB7-D181-4C0D-A332-F0DFD5F7FF6E}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DD4ADEB7-D181-4C0D-A332-F0DFD5F7FF6E}.Debug|AVR.Build.0 = Debug|AVR
+		{DD4ADEB7-D181-4C0D-A332-F0DFD5F7FF6E}.Release|AVR.ActiveCfg = Release|AVR
+		{DD4ADEB7-D181-4C0D-A332-F0DFD5F7FF6E}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
